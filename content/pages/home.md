@@ -3,7 +3,7 @@ template: HomePage
 slug: ""
 title: Cuentas de Ingeniero
 featuredImage: https://ucarecdn.com/f87dec5c-b141-4b86-b316-10ac4803299a/
-subtitle: La inversión desde la perspectiva de un ingeniero.
+subtitle: "**La inversión desde la perspectiva de un ingeniero.**"
 meta:
   description: Aprende estrategias de inversión, ahorro y diversificación.
   title: Cuentas de Ingeniero | La inversión desde la perspectiva de un ingeniero.
