@@ -1,10 +1,12 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
+title: Blog
 featuredImage: https://ucarecdn.com/b516f1bd-99eb-4db8-996c-6f2f95fdd891/
-subtitle: This is the blog page subtitle.
+subtitle: "**Contenido variado acerca de mi experiencia en la inversión,
+  recomendaciones y demás.**"
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: Blog con contenido variado acerca de mi experiencia en la
+    inversión, recomendaciones y demás.
+  title: Blog
 ---
