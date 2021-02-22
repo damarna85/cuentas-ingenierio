@@ -8,23 +8,19 @@ meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
+Estimado compañero, si has llegado hasta aquí es porque te entusiasma el mundo de la inversión y quizá, tal y como me ocurrió a mí, te has dedicado a un sector con apenas relación a este mundillo (en mi caso el sector IT). Es por ello que muy probablemente has tenido que buscarte la vida para conseguir la información necesaria con objeto de invertir de manera inteligente. Desgraciadamente el sistema educativo en nuestro país apenas invierte en educación financiera, por lo que entiendo tu frustración a la hora de ver la mejor opción de sacar partido a tus ahorros. ¡Tengo el dinero parado en el banco! ¡La inflación hace que cada año pierda poder adquisitivo! Te entiendo, es frustrante no haber recibido una mínima educación financiera pero las buenas noticias es que ¡aún estás a tiempo de revertir esto!
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+![Desesperado](https://ucarecdn.com/04a5d8d4-b47c-4620-abc2-5c6a42d545e7/ "Desesperado")
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+El propósito de este sitio es aportar mi experiencia de más de 10 años en el mundo de las inversiones, no pretendo vender libros ni cursos, simplemente me gusta compartir mi experiencia en este maravilloso mundo de la inversión donde hablaremos de bolsa, inversión inmobiliaria, ahorro y demás. Pero ¡ojo!, si buscas dar un pelotazo o especular con la bolsa a corto plazo, este no es tu sitio y te recomiendo que vayas a otras fuentes. En este sitio voy a compartir mis estrategias de inversión a largo plazo, cómo ser perseverante, tener la psicología adecuada para no cometer los errores que ya cometí en el pasado y que me sirvieron para aprender la lección, etc.
 
-# Features
+# Primeros pasos en el sitio 🚀
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+Para agilizar tu experiencia de usuario en este sitio, te dejo esta sección con algunos enlaces de interes a posts que te pueden interesar. De todos modos, siéntete libre de acceder a mi [Blog](/blog) para bucear en los temas que más te interese.
 
-## Get started
+* **[](https://gatsbyjs.org)Post A**
+* **Post A**
+* **Post A**
+* **Post A**
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Si lo deseas, también puedes contactar conmigo en el formulario accesible en este enlace. Sin más, recibe un cordial saludo 😊
