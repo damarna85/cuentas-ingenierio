@@ -5,8 +5,8 @@ title: Cuentas de Ingeniero
 featuredImage: https://ucarecdn.com/f87dec5c-b141-4b86-b316-10ac4803299a/
 subtitle: La inversión desde la perspectiva de un ingeniero.
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Aprende estrategias de inversión, ahorro y diversificación.
+  title: Cuentas de Ingeniero | La inversión desde la perspectiva de un ingeniero.
 ---
 Estimado compañero, si has llegado hasta aquí es porque te entusiasma el mundo de la inversión y quizá, tal y como me ocurrió a mí, te has dedicado a un sector con apenas relación a este mundillo (en mi caso el sector IT). Es por ello que muy probablemente has tenido que buscarte la vida para conseguir la información necesaria con objeto de invertir de manera inteligente. Desgraciadamente el sistema educativo en nuestro país apenas invierte en educación financiera, por lo que entiendo tu frustración a la hora de ver la mejor opción de sacar partido a tus ahorros. ¡Tengo el dinero parado en el banco! ¡La inflación hace que cada año pierda poder adquisitivo! Te entiendo, es frustrante no haber recibido una mínima educación financiera pero las buenas noticias es que ¡aún estás a tiempo de revertir esto!
 
