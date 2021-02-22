@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ""
-title: Yellowcake
+title: Cuentas de Ingeniero
 featuredImage: https://ucarecdn.com/f87dec5c-b141-4b86-b316-10ac4803299a/
-subtitle: " Welcome to the ultimate Gatsby and Netlify starter project."
+subtitle: La inversión desde la perspectiva de un ingeniero.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
