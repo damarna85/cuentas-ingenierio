@@ -3,7 +3,7 @@ template: SinglePost
 title: El Ahorro
 status: Published
 date: 2018-03-28
-featuredImage: https://ucarecdn.com/57002902-e8b3-4315-9995-beb637b29128/
+featuredImage: https://ucarecdn.com/814d0a9e-02b7-4dc9-90aa-3284e20dd416/
 excerpt: This is an excerpt of Post Two
 categories:
   - category: Updates
