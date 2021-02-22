@@ -6,6 +6,17 @@
   margin-bottom: 2.5rem;
 }
 
+@media screen and (min-width: 750px) {
+  .Content--Image,
+  .Content img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin-bottom: 2.5rem;
+    padding: 0 20rem;
+  }
+}
+
 .Content--Iframe {
   position: relative;
   padding-bottom: 56.25%;
