@@ -18,7 +18,7 @@ El propósito de este sitio es aportar mi experiencia de más de 10 años en el 
 
 Para agilizar tu experiencia de usuario en este sitio, te dejo esta sección con algunos enlaces de interes a posts que te pueden interesar. De todos modos, siéntete libre de acceder a mi [Blog](/blog) para bucear en los temas que más te interese.
 
-* **[](https://gatsbyjs.org)Post A**
+* **[El Ahorro](/posts/el-ahorro/)**
 * **Post A**
 * **Post A**
 * **Post A**
